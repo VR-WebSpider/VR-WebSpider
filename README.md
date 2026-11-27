@@ -1,27 +1,41 @@
 # Hi there, I'm Vivekanand Rajbhar (VR / WebSpider) 👋
-### Software Engineer & Game Developer | BCA Candidate (Graduating 2027)
 
-📍 Indore, India (Preparing for Relocation to Hamburg, Germany)  
-🎯 Targeting: InnoMaster Softwareentwicklung – WiSe 2027 @ InnoGames  
+### Game Developer · 3D Artist · Systems Programmer | BCA + ADIDG
+
+📍 Indore, India  
 🌐 Portfolio: [webspiderstudios.com](https://webspiderstudios.com/) | 💼 LinkedIn: [vivekanand-rajbhar](https://www.linkedin.com/in/vivekanand-rajbhar-7097063a1)
 
 ---
 
 ## 🚀 About Me
 
-I am a Game Developer and Systems Programmer focusing on C++ (Unreal Engine 5), C# (Unity Engine), and Rust/Tauri desktop software architecture. I run an independent development studio (WebSpider Studios) and co-founded an AI-first game studio (ZexKraft Pvt. Ltd.). 
+I am a Game Developer and 3D Artist bridging **code and visual art** — from engineering gameplay systems in Unreal Engine 5 (C++) and Unity (C#) to creating 3D game assets, character setups, and procedural pipelines.
 
-Currently completing my Bachelor of Computer Applications (BCA) at Devi Ahilya Vishwavidyalaya (DAVV), I build commercial game systems, procedural 3D desktop applications, and custom developer tools. My goal is to combine advanced Master's-level software engineering with live game development at InnoGames in Hamburg.
+I created **WebSpider Studios** as an independent creative space to research, self-learn, and build games and experimental tools. My focus is on real-time interactive experiences, game mechanics, 3D pipelines, and systems programming.
+
+Currently completing my **Bachelor of Computer Applications (BCA)** at Devi Ahilya Vishwavidyalaya (DAVV) along with the **ADIDG (Advanced Program in Interactive Design & Games — 576 hrs)** from MAAC — combining computer science fundamentals with hands-on game art and interactive design.
+
+---
+
+## 🎓 Education & Training
+
+| Program | Institution | Focus Areas |
+|---------|-------------|-------------|
+| **BCA** (Bachelor of Computer Applications) | Devi Ahilya Vishwavidyalaya (DAVV), Indore | Python, Computer Graphics, Cloud Computing, Cyber Security, Web Development (HTML/CSS/JS, PHP/MySQL), DBMS (PL/SQL), Java, Data Structures, Computer Networks |
+| **ADIDG** (Advanced Program in Interactive Design & Games — 576 hrs) | MAAC | 3D Design & Modelling (3DS Max, Maya, Mudbox), Digital Sculpting, Look Development, Lighting & Rendering, Character Setup & Skinning, Character Animation, Game Engine Workflow (Unity, Unreal), Level Design, VR/AR (Vuforia SDK), Mobile Game Creation |
 
 ---
 
 ## 🛠 Tech Stack & Core Competencies
 
-- Languages: C++, C#, Rust, Python, TypeScript, SQL
-- Game Engines: Unreal Engine 5 (C++ / Blueprints), Unity (C# / Visual Scripting)
-- Tooling & Systems: Tauri, React, Three.js, Node.js, REST APIs, Git, CI/CD
-- 3D & Graphics Pipeline: Blender, 3ds Max, Maya, Substance Painter, Auto-Topology Toolsets
-- Spoken Languages: English (Fluent/Professional), German (Actively Learning)
+- **Languages (Hand-coded):** C++, C#, Python, Java, PHP, TypeScript, SQL
+- **Game Engines:** Unreal Engine 5 (C++ / Blueprints), Unity (C# / Visual Scripting)
+- **3D & Art Pipeline:** 3DS Max, Maya, Mudbox, Substance Painter, Blender, SketchUp, Lumion, Photoshop
+- **Motion & Post-Production:** Premiere, Audition, Animate CC
+- **AR / VR:** Vuforia SDK
+- **Tooling & Systems:** React, Three.js, Node.js, REST APIs, Git, CI/CD
+- **Web & Cloud:** HTML/CSS/JS, PHP/MySQL, Python (Django/Flask), Cloud Basics (AWS/GCP), Docker
+- **Spoken Languages:** English (Fluent/Professional), German (Actively Learning), Hindi (Native)
 
 ---
 
@@ -32,13 +46,13 @@ Currently completing my Bachelor of Computer Applications (BCA) at Devi Ahilya V
 - Engineered gameplay systems, character movement logic, and custom AI perception components in C++.
 - Integrated Model Context Protocol (MCP) workflows for engine-level automation.
 
-### 🛠️ [PolyHyp](https://github.com/VR-WebSpider) (Rust / Tauri / Three.js)
+### 🛠️ [PolyHyp](https://github.com/VR-WebSpider) (Tauri / Three.js / WebGL)
 - Standalone procedural 3D desktop application built for high-performance asset creation.
-- Implemented Rust backend logic with web-view frontend interop using Tauri and WebGL.
+- Implemented desktop application architecture with web-view frontend interop using Tauri and WebGL.
 
 ### 📱 [Drone Crash](https://play.google.com/store/apps/details?id=com.WebSpider.DroneCrash) (Unity / C#)
 - Shipped 3D mobile arcade combat simulator on Google Play.
-- Implemented low-latency input handling, custom physics controllers, and mobile performance optimization.
+- Implemented low-latency touch input handling, custom physics controllers, and mobile performance optimization.
 
 ### 🐍 [Custom 3D Auto-Topology Suite](https://github.com/VR-WebSpider) (Python / Maya / Blender)
 - Automated retopology tool suite for streamlining high-to-low poly pipelines in 3D production workflows.
@@ -56,7 +70,7 @@ Currently completing my Bachelor of Computer Applications (BCA) at Devi Ahilya V
 
 ## 📫 Let's Connect
 
-- **Email:** `contact@webspiderstudios.com`
-- Itch.io: [vr-webspider.itch.io](https://vr-webspider.itch.io/)
-- YouTube: [@WebSpider1024](https://www.youtube.com/@WebSpider1024)
-- Discord: `vr_webspider`
+- **Email:** `vr@webspiderstudios.com`
+- 🎮 Itch.io: [vr-webspider.itch.io](https://vr-webspider.itch.io/)
+- 📺 YouTube: [@WebSpider1024](https://www.youtube.com/@WebSpider1024)
+- 💬 Discord: `vr_webspider`
