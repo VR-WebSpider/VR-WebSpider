@@ -11,6 +11,8 @@
 
 I am a Game Developer and 3D Artist bridging **code and visual art** — from engineering gameplay systems in Unreal Engine 5 (C++) and Unity (C#) to creating 3D game assets, character setups, and procedural pipelines.
 
+I work mostly using **C#, C++, and Python**, and I use **Agentic AI workflows heavily** (with a strong focus on **locally hosted open-weight LLMs**) to build complex developer tools, automated pipelines, and responsive gameplay mechanics.
+
 I created **WebSpider Studios** as an independent creative space to research, self-learn, and build games and experimental tools. My focus is on real-time interactive experiences, game mechanics, 3D pipelines, and systems programming.
 
 Currently completing my **Bachelor of Computer Applications (BCA)** at Devi Ahilya Vishwavidyalaya (DAVV) along with the **ADIDG (Advanced Program in Interactive Design & Games — 576 hrs)** from MAAC — combining computer science fundamentals with hands-on game art and interactive design.
@@ -29,6 +31,7 @@ Currently completing my **Bachelor of Computer Applications (BCA)** at Devi Ahil
 ## 🛠 Tech Stack & Core Competencies
 
 - **Languages (Hand-coded):** C++, C#, Python, Java, PHP, TypeScript, SQL
+- **AI & Workflow Engineering:** Agentic AI Workflows, Locally Hosted Open-Weight LLMs (Ollama / llama.cpp / vLLM), Model Context Protocol (MCP), Automated Code & Asset Pipelines
 - **Game Engines:** Unreal Engine 5 (C++ / Blueprints), Unity (C# / Visual Scripting)
 - **3D & Art Pipeline:** 3DS Max, Maya, Mudbox, Substance Painter, Blender, SketchUp, Lumion, Photoshop
 - **Motion & Post-Production:** Premiere, Audition, Animate CC
@@ -41,14 +44,9 @@ Currently completing my **Bachelor of Computer Applications (BCA)** at Devi Ahil
 
 ## 📌 Highlighted Projects & Architecture
 
-### ⚔️ [Hawk Down](https://github.com/VR-WebSpider) (Unreal Engine 5 / C++)
-- Open-world tactical military action title built in UE5.
-- Engineered gameplay systems, character movement logic, and custom AI perception components in C++.
-- Integrated Model Context Protocol (MCP) workflows for engine-level automation.
-
 ### 🛠️ [PolyHyp](https://github.com/VR-WebSpider) (Tauri / Three.js / WebGL)
 - Standalone procedural 3D desktop application built for high-performance asset creation.
-- Implemented desktop application architecture with web-view frontend interop using Tauri and WebGL.
+- Implemented desktop application architecture with web-view frontend interop using Tauri, WebGL, and agentic workflows.
 
 ### 📱 [Drone Crash](https://play.google.com/store/apps/details?id=com.WebSpider.DroneCrash) (Unity / C#)
 - Shipped 3D mobile arcade combat simulator on Google Play.
